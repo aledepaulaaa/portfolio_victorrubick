@@ -1,0 +1,38 @@
+{
+  "name": "portfolio_victorrubick",
+  "author": {
+    "name": "Alexandre de Paula",
+    "url": "https://github.com/aledepaulaaa",
+    "email": "contato@alexandredesenvolvedor.com"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@react-three/drei": "^9.112.0",
+    "@react-three/fiber": "^8.17.7",
+    "@types/nodemailer": "^6.4.16",
+    "@types/three": "^0.168.0",
+    "framer-motion": "^11.5.4",
+    "next": "14.2.6",
+    "nodemailer": "^6.9.15",
+    "react": "^18",
+    "react-dom": "^18",
+    "three": "^0.168.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
